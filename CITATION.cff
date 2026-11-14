@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: 'CAPITA: Commonwealth''s General Purpose Static Microsimulation Model'
+authors:
+- name: The Australian Treasury
+- name: CAPITA contributors
+repository-code: https://github.com/edithatogo/CAPITA
+url: https://github.com/edithatogo/CAPITA
+references:
+- type: software
+  title: 'CAPITA: Commonwealth''s General Purpose Static Microsimulation Model'
+  authors:
+  - name: The Australian Treasury
+  - name: CAPITA contributors
+  repository-code: https://github.com/CAPITAmodel/CAPITA
+  url: https://github.com/CAPITAmodel/CAPITA
